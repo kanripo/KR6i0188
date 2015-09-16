@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:13.662233
+#+DATE: 2015-08-30 20:12:15.186673
 #+TITLE: 佛說七女經
 #+PROPERTY: CBETA_ID T14n0556
 #+PROPERTY: ID KR6i0188
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 556
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0188_T_000-0907c>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0188_T_001-0907c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.556¶
-
- 佛說七女經¶
+No. 556¶
+佛說七女經¶
 ¶
 吳月支國居士支謙譯¶
 
@@ -257,7 +256,7 @@ No.556¶
 
 佛爾時便感動，放威神，於¶
 座上以足指按地，三千大千剎土皆為大動；¶
-光明照十方，百歲枯樹皆生華菓，諸空溝㵎¶
+光明照十方，百歲枯樹皆生華菓，諸空溝[澗-日+月]¶
 皆自然有水，箜篌樂器不鼓自鳴，婦女珠環¶
 皆自作聲，盲者得視，聾者得聽，瘂者得語，¶
 傴者得伸，拘躃者得愈，手足病者得愈，狂者¶
